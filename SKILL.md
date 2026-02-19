@@ -3,8 +3,9 @@ name: sophisticated-naivete-frame
 description: Reframe political statements or actions using the "I was taught / but actually" pattern to expose gaps between official mythology and observable reality.
 license: MIT
 metadata:
+  version: 1.0.5017
   author: sethmblack
-  version: 1.0.1
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - sophisticated-naïveté-frame
 - transformation
